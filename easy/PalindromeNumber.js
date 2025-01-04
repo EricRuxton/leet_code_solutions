@@ -1,4 +1,4 @@
-let x = 10;
+let x = 151;
 
 /**
  * @param {number} x
@@ -7,11 +7,12 @@ let x = 10;
 var isPalindrome = function (x) {
 	if (x < 0) return false;
 
-	let reverse = '';
 	for (let i = x.toString().length - 1; i >= 0; i--) {
-		reverse += x.toString()[i];
+		if (x.toString()[i] !== x.toString()[x.toString().length - 1 - i]) {
+			return false;
+		}
 	}
-	return x == reverse;
+	return true
 };
 
 isPalindrome(x);
