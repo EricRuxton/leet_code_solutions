@@ -1,5 +1,3 @@
-let strs = [''];
-
 /**
  * @param {string[]} strs
  * @return {string}
@@ -7,4 +5,4 @@ let strs = [''];
 var romanToInt = function(s) {
 };
 
-romanToInt(strs);
+romanToInt(['']);

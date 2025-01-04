@@ -1,5 +1,3 @@
-let strs = [''];
-
 /**
  * @param {string[]} strs
  * @return {string}
@@ -19,4 +17,4 @@ var longestCommonPrefix = function (strs) {
 	return common;
 };
 
-longestCommonPrefix(strs);
+longestCommonPrefix(['']);

@@ -1,5 +1,3 @@
-let s = '[';
-
 /**
  * @param {string} s
  * @return {boolean}
@@ -29,4 +27,4 @@ var isValid = function (s) {
 	return true;
 };
 
-isValid(s);
+isValid('[');

@@ -1,5 +1,3 @@
-let x = 151;
-
 /**
  * @param {number} x
  * @return {boolean}
@@ -15,4 +13,4 @@ var isPalindrome = function (x) {
 	return true
 };
 
-isPalindrome(x);
+isPalindrome(151);
