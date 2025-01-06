@@ -13,7 +13,6 @@ var romanToInt = function(s) {
             M: 1000
         }
 
-        let current = 0;
         let prev = 0
         let total = 0
 
