@@ -41,5 +41,5 @@ var mergeTwoLists = function(list1, list2) {
     return head
 };
 
-//mergeTwoLists([1,2,4], [1,3,4])
+mergeTwoLists([1,2,4], [1,3,4])
 

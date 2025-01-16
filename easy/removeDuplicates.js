@@ -13,7 +13,6 @@ var removeDuplicates = function(nums) {
         } else {
             duplicates++
         }
-        console.log(nums)
     }
     return nums.length - duplicates
 };

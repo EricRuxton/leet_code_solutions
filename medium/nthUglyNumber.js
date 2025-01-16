@@ -33,7 +33,6 @@ var nthUglyNumber = function(n) {
         twos.push(lastUgly*2); threes.push(lastUgly*3); fives.push(lastUgly*5)
         uglies.push(getNextUgly(uglies[uglies.length - 1], twos, threes, fives))
     }
-    console.log(uglies[uglies.length - 1])
     return uglies[uglies.length - 1]
 };
 
