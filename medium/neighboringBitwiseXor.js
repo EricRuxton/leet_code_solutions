@@ -1,6 +1,3 @@
-const ODD = []
-const EVEN = [1,1]
-
 /**
  * @param {number[]} derived
  * @return {boolean}
