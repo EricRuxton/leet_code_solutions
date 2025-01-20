@@ -74,25 +74,3 @@ var addTwoNumbers = function(l1, l2) {
 };
 
 addTwoNumbers(l1, l2)
-
-/*    
-    This would work if the given data was actually a linked list, and not an array.
-    let l1Curr = l1
-    let l2Curr = l2 
-    let head = l1Curr
-    let carry = 0
-    while (l2Curr || carry){
-        let value = (l1Curr.value ? l1Curr.value : 0) + (l2Curr ? l2Curr.value : 0) + carry
-        if (value >= 10){
-            l1Curr.value = value - 10
-            carry = 1
-        } else {
-            l1Curr.value = value
-            carry = 0
-        }
-        l2Curr = l2Curr?.next || null
-        console.log(l1Curr.value)
-        l1Curr = l1Curr.next ? l1Curr.next : { value: 0, next: null}
-    }
-    return head
-*/

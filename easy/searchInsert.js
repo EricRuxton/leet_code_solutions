@@ -1,9 +1,5 @@
-var getMid = function(lo, hi){
-    return Math.floor((lo+hi)/2)
-}
-
 var walk = function (nums, target, lo, hi){
-    let mid = getMid(lo, hi, nums)
+    let mid = Math.floor((lo+hi)/2)
     let val = nums[mid]
 
     if (val === target || target < val && target > nums[mid - 1]) return mid
