@@ -1,4 +1,4 @@
-﻿using Leetcode.easy;
+﻿using Leetcode.medium;
 
 //TwoSum ts = new TwoSum();
 //Console.WriteLine(string.Join(",", ts.Run([3, 3], 6)));
@@ -10,6 +10,8 @@
 //int[][] array = [[0, 2, 1, 0], [4, 0, 0, 3], [1, 0, 0, 4], [0, 3, 2, 0]];
 //Console.WriteLine(fmf.Run(array));
 
+//LengthOfLastWord lolw = new LengthOfLastWord();
+//Console.WriteLine(lolw.Run("luffy is still joyboy"));
 
-LengthOfLastWord lolw = new LengthOfLastWord();
-Console.WriteLine(lolw.Run("luffy is still joyboy"));
+LongestPalindrome lp = new LongestPalindrome();
+Console.WriteLine(lp.Run("klvxwqyzugrdoaccdafdfrvxiowkcuedfhoixzipxrkzbvpusslsgfjocvidnpsnkqdfnnzzawzsslwnvvjyoignsfbxkgrokzyusxikxumrxlzzrnbtrixxfioormoyyejashrowjqqzifacecvoruwkuessttlexvdptuvodoavsjaepvrfvbdhumtuvxufzzyowiswokioyjtzzmevttheeyjqcldllxvjraeyflthntsmipaoyjixygbtbvbnnrmlwwkeikhnnmlfspjgmcxwbjyhomfjdcnogqjviggklplpznfwjydkxzjkoskvqvnxfzdrsmooyciwulvtlmvnjbbmffureoilszlonibbcwfsjzguxqrjwypwrskhrttvnqoqisdfuifqnabzbvyzgbxfvmcomneykfmycevnrcsyqclamfxskmsxreptpxqxqidvjbuduktnwwoztvkuebfdigmjqfuolqzvjincchlmbrxpqgguwuyhrdtwqkdlqidlxzqktgzktihvlwsbysjeykiwokyqaskjjngovbagspyspeghutyoeahhgynzsyaszlirmlekpboywqdliumihwnsnwjc"));
