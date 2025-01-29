@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{FB1157A7-F1AC-46E9-98CB-36F8EB0E8446}|Leetcode\\Leetcode.csproj|solutionrelative:leetcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FB1157A7-F1AC-46E9-98CB-36F8EB0E8446}|Leetcode\\Leetcode.csproj|d:\\personal\\repos\\leetcode\\c#\\leetcode\\leetcode\\medium\\reverseinteger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB1157A7-F1AC-46E9-98CB-36F8EB0E8446}|Leetcode\\Leetcode.csproj|solutionrelative:leetcode\\medium\\reverseinteger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FB1157A7-F1AC-46E9-98CB-36F8EB0E8446}|Leetcode\\Leetcode.csproj|d:\\personal\\repos\\leetcode\\c#\\leetcode\\leetcode\\medium\\zigzagconversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB1157A7-F1AC-46E9-98CB-36F8EB0E8446}|Leetcode\\Leetcode.csproj|solutionrelative:leetcode\\medium\\zigzagconversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -30,9 +34,9 @@
               "Title": "program.cs",
               "DocumentMoniker": "D:\\Personal\\repos\\Leetcode\\C#\\Leetcode\\Leetcode\\program.cs",
               "RelativeDocumentMoniker": "Leetcode\\program.cs",
-              "ToolTip": "D:\\Personal\\repos\\Leetcode\\C#\\Leetcode\\Leetcode\\program.cs",
-              "RelativeToolTip": "Leetcode\\program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\Personal\\repos\\Leetcode\\C#\\Leetcode\\Leetcode\\program.cs*",
+              "RelativeToolTip": "Leetcode\\program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-28T23:44:37.843Z",
               "IsPinned": true,
@@ -41,25 +45,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ReverseInteger.cs",
+              "DocumentMoniker": "D:\\Personal\\repos\\Leetcode\\C#\\Leetcode\\Leetcode\\medium\\ReverseInteger.cs",
+              "RelativeDocumentMoniker": "Leetcode\\medium\\ReverseInteger.cs",
+              "ToolTip": "D:\\Personal\\repos\\Leetcode\\C#\\Leetcode\\Leetcode\\medium\\ReverseInteger.cs",
+              "RelativeToolTip": "Leetcode\\medium\\ReverseInteger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T20:31:52.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ZigzagConversion.cs",
               "DocumentMoniker": "D:\\Personal\\repos\\Leetcode\\C#\\Leetcode\\Leetcode\\medium\\ZigzagConversion.cs",
               "RelativeDocumentMoniker": "Leetcode\\medium\\ZigzagConversion.cs",
               "ToolTip": "D:\\Personal\\repos\\Leetcode\\C#\\Leetcode\\Leetcode\\medium\\ZigzagConversion.cs",
               "RelativeToolTip": "Leetcode\\medium\\ZigzagConversion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-29T18:40:47.221Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "LongestPalindrome.cs",
               "DocumentMoniker": "D:\\Personal\\repos\\Leetcode\\C#\\Leetcode\\Leetcode\\medium\\LongestPalindrome.cs",
               "RelativeDocumentMoniker": "Leetcode\\medium\\LongestPalindrome.cs",
               "ToolTip": "D:\\Personal\\repos\\Leetcode\\C#\\Leetcode\\Leetcode\\medium\\LongestPalindrome.cs",
               "RelativeToolTip": "Leetcode\\medium\\LongestPalindrome.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowA4AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-29T16:38:34.379Z",
               "EditorCaption": ""
