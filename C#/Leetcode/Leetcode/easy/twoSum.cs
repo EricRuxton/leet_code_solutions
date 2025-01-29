@@ -1,9 +1,9 @@
 ﻿namespace Leetcode.easy
 {
-    internal class twoSum
+    internal class TwoSum
     {
 
-        public int[] TwoSum(int[] nums, int target)
+        public int[] Run(int[] nums, int target)
         {
             Dictionary<int, int> dict = new Dictionary<int, int>();
             for (int i = 0; i < nums.Length; i++)
