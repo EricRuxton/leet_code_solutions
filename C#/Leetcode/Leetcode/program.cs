@@ -1,4 +1,4 @@
-﻿using Leetcode.medium;
+﻿using Leetcode.easy;
 
 //TwoSum ts = new TwoSum();
 //Console.WriteLine(string.Join(",", ts.Run([3, 3], 6)));
@@ -19,5 +19,8 @@
 //ZigzagConversion zc = new ZigzagConversion();
 //Console.WriteLine(zc.Run("AB", 1));
 
-ReverseInteger ri = new ReverseInteger();
-Console.WriteLine(ri.Run(1534236469));
+//ReverseInteger ri = new ReverseInteger();
+//Console.WriteLine(ri.Run(1534236469));
+
+PlusOne po = new PlusOne();
+Console.WriteLine(string.Join("", po.Run([7, 2, 8, 5, 0, 9, 1, 2, 9, 5, 3, 6, 6, 7, 3, 2, 8, 4, 3, 7, 9, 5, 7, 7, 4, 7, 4, 9, 4, 7, 0, 1, 1, 1, 7, 4, 0, 0, 6])));
