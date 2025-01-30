@@ -11,7 +11,7 @@
         "projectName": "Leetcode",
         "projectPath": "D:\\Personal\\repos\\Leetcode\\C#\\LeetCode\\Leetcode\\Leetcode.csproj",
         "packagesPath": "C:\\Users\\eruxt\\.nuget\\packages\\",
-        "outputPath": "D:\\Personal\\repos\\Leetcode\\C#\\Leetcode\\Leetcode\\obj\\",
+        "outputPath": "D:\\Personal\\repos\\Leetcode\\C#\\LeetCode\\Leetcode\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
