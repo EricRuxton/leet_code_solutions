@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Personal\\repos\\Leetcode\\C#\\Leetcode\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FB1157A7-F1AC-46E9-98CB-36F8EB0E8446}|Leetcode\\Leetcode.csproj|d:\\personal\\repos\\leetcode\\c#\\leetcode\\leetcode\\easy\\addbinary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB1157A7-F1AC-46E9-98CB-36F8EB0E8446}|Leetcode\\Leetcode.csproj|solutionrelative:leetcode\\easy\\addbinary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB1157A7-F1AC-46E9-98CB-36F8EB0E8446}|Leetcode\\Leetcode.csproj|d:\\personal\\repos\\leetcode\\c#\\leetcode\\leetcode\\easy\\findjudge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB1157A7-F1AC-46E9-98CB-36F8EB0E8446}|Leetcode\\Leetcode.csproj|solutionrelative:leetcode\\easy\\findjudge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FB1157A7-F1AC-46E9-98CB-36F8EB0E8446}|Leetcode\\Leetcode.csproj|d:\\personal\\repos\\leetcode\\c#\\leetcode\\leetcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "Leetcode\\program.cs",
               "ToolTip": "D:\\Personal\\repos\\Leetcode\\C#\\Leetcode\\Leetcode\\program.cs",
               "RelativeToolTip": "Leetcode\\program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAgwB8AAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-28T23:44:37.843Z",
               "IsPinned": true,
@@ -37,14 +37,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AddBinary.cs",
-              "DocumentMoniker": "D:\\Personal\\repos\\Leetcode\\C#\\Leetcode\\Leetcode\\easy\\AddBinary.cs",
-              "RelativeDocumentMoniker": "Leetcode\\easy\\AddBinary.cs",
-              "ToolTip": "D:\\Personal\\repos\\Leetcode\\C#\\Leetcode\\Leetcode\\easy\\AddBinary.cs",
-              "RelativeToolTip": "Leetcode\\easy\\AddBinary.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBEAAAARAAAAAAAAAA==",
+              "Title": "FindJudge.cs",
+              "DocumentMoniker": "D:\\Personal\\repos\\Leetcode\\C#\\Leetcode\\Leetcode\\easy\\FindJudge.cs",
+              "RelativeDocumentMoniker": "Leetcode\\easy\\FindJudge.cs",
+              "ToolTip": "D:\\Personal\\repos\\Leetcode\\C#\\Leetcode\\Leetcode\\easy\\FindJudge.cs",
+              "RelativeToolTip": "Leetcode\\easy\\FindJudge.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA4AAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T16:03:17.876Z",
+              "WhenOpened": "2025-01-30T23:35:18.613Z",
               "EditorCaption": ""
             }
           ]

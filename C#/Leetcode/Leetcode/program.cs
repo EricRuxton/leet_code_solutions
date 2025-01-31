@@ -1,5 +1,4 @@
 ﻿using Leetcode.easy;
-
 //TwoSum ts = new TwoSum();
 //Console.WriteLine(string.Join(",", ts.Run([3, 3], 6)));
 
@@ -28,5 +27,15 @@
 //MyAtoi ma = new MyAtoi();
 //Console.WriteLine(ma.Run("21474836460"));
 
-AddBinary ab = new AddBinary();
-Console.WriteLine(ab.Run("1", "11"));
+//AddBinary ab = new AddBinary();
+//Console.WriteLine(ab.Run("1", "11"));
+
+//MaxArea ma = new MaxArea();
+//Console.WriteLine(ma.Run([1, 1]));
+
+//RemoveNthFromEnd rnfe = new RemoveNthFromEnd();
+//Console.WriteLine(rnfe.Run(rnfe._head, 2));
+
+FindJudge fj = new FindJudge();
+Console.WriteLine(fj.Run(4, [[1, 3], [1, 4], [2, 3]]));
+
