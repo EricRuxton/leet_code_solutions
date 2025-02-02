@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Personal\\repos\\Leetcode\\C#\\LeetCode\\Leetcode\\Leetcode.csproj": {}
+    "D:\\Personal\\repos\\Leetcode\\C#\\Leetcode\\Leetcode\\Leetcode.csproj": {}
   },
   "projects": {
-    "D:\\Personal\\repos\\Leetcode\\C#\\LeetCode\\Leetcode\\Leetcode.csproj": {
+    "D:\\Personal\\repos\\Leetcode\\C#\\Leetcode\\Leetcode\\Leetcode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Personal\\repos\\Leetcode\\C#\\LeetCode\\Leetcode\\Leetcode.csproj",
+        "projectUniqueName": "D:\\Personal\\repos\\Leetcode\\C#\\Leetcode\\Leetcode\\Leetcode.csproj",
         "projectName": "Leetcode",
-        "projectPath": "D:\\Personal\\repos\\Leetcode\\C#\\LeetCode\\Leetcode\\Leetcode.csproj",
+        "projectPath": "D:\\Personal\\repos\\Leetcode\\C#\\Leetcode\\Leetcode\\Leetcode.csproj",
         "packagesPath": "C:\\Users\\eruxt\\.nuget\\packages\\",
         "outputPath": "D:\\Personal\\repos\\Leetcode\\C#\\Leetcode\\Leetcode\\obj\\",
         "projectStyle": "PackageReference",

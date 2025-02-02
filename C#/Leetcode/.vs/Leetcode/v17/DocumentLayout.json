@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "D:\\Personal\\repos\\Leetcode\\C#\\Leetcode\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FB1157A7-F1AC-46E9-98CB-36F8EB0E8446}|Leetcode\\Leetcode.csproj|d:\\personal\\repos\\leetcode\\c#\\leetcode\\leetcode\\easy\\findjudge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB1157A7-F1AC-46E9-98CB-36F8EB0E8446}|Leetcode\\Leetcode.csproj|solutionrelative:leetcode\\easy\\findjudge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB1157A7-F1AC-46E9-98CB-36F8EB0E8446}|Leetcode\\Leetcode.csproj|d:\\personal\\repos\\leetcode\\c#\\leetcode\\leetcode\\medium\\longestpalindrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB1157A7-F1AC-46E9-98CB-36F8EB0E8446}|Leetcode\\Leetcode.csproj|solutionrelative:leetcode\\medium\\longestpalindrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB1157A7-F1AC-46E9-98CB-36F8EB0E8446}|Leetcode\\Leetcode.csproj|d:\\personal\\repos\\leetcode\\c#\\leetcode\\leetcode\\medium\\maxarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB1157A7-F1AC-46E9-98CB-36F8EB0E8446}|Leetcode\\Leetcode.csproj|solutionrelative:leetcode\\medium\\maxarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB1157A7-F1AC-46E9-98CB-36F8EB0E8446}|Leetcode\\Leetcode.csproj|d:\\personal\\repos\\leetcode\\c#\\leetcode\\leetcode\\medium\\findredundantconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB1157A7-F1AC-46E9-98CB-36F8EB0E8446}|Leetcode\\Leetcode.csproj|solutionrelative:leetcode\\medium\\findredundantconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB1157A7-F1AC-46E9-98CB-36F8EB0E8446}|Leetcode\\Leetcode.csproj|d:\\personal\\repos\\leetcode\\c#\\leetcode\\leetcode\\medium\\findmaxfish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB1157A7-F1AC-46E9-98CB-36F8EB0E8446}|Leetcode\\Leetcode.csproj|solutionrelative:leetcode\\medium\\findmaxfish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB1157A7-F1AC-46E9-98CB-36F8EB0E8446}|Leetcode\\Leetcode.csproj|d:\\personal\\repos\\leetcode\\c#\\leetcode\\leetcode\\easy\\squareroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB1157A7-F1AC-46E9-98CB-36F8EB0E8446}|Leetcode\\Leetcode.csproj|solutionrelative:leetcode\\easy\\squareroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FB1157A7-F1AC-46E9-98CB-36F8EB0E8446}|Leetcode\\Leetcode.csproj|d:\\personal\\repos\\leetcode\\c#\\leetcode\\leetcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB1157A7-F1AC-46E9-98CB-36F8EB0E8446}|Leetcode\\Leetcode.csproj|solutionrelative:leetcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB1157A7-F1AC-46E9-98CB-36F8EB0E8446}|Leetcode\\Leetcode.csproj|d:\\personal\\repos\\leetcode\\c#\\leetcode\\leetcode\\easy\\findjudge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB1157A7-F1AC-46E9-98CB-36F8EB0E8446}|Leetcode\\Leetcode.csproj|solutionrelative:leetcode\\easy\\findjudge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,34 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "program.cs",
               "DocumentMoniker": "D:\\Personal\\repos\\Leetcode\\C#\\Leetcode\\Leetcode\\program.cs",
               "RelativeDocumentMoniker": "Leetcode\\program.cs",
               "ToolTip": "D:\\Personal\\repos\\Leetcode\\C#\\Leetcode\\Leetcode\\program.cs",
               "RelativeToolTip": "Leetcode\\program.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAgwCcAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAIwC0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-28T23:44:37.843Z",
-              "IsPinned": true,
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MaxArea.cs",
+              "DocumentMoniker": "D:\\Personal\\repos\\Leetcode\\C#\\Leetcode\\Leetcode\\medium\\MaxArea.cs",
+              "RelativeDocumentMoniker": "Leetcode\\medium\\MaxArea.cs",
+              "ToolTip": "D:\\Personal\\repos\\Leetcode\\C#\\Leetcode\\Leetcode\\medium\\MaxArea.cs",
+              "RelativeToolTip": "Leetcode\\medium\\MaxArea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T16:17:03.911Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "LongestPalindrome.cs",
+              "DocumentMoniker": "D:\\Personal\\repos\\Leetcode\\C#\\Leetcode\\Leetcode\\medium\\LongestPalindrome.cs",
+              "RelativeDocumentMoniker": "Leetcode\\medium\\LongestPalindrome.cs",
+              "ToolTip": "D:\\Personal\\repos\\Leetcode\\C#\\Leetcode\\Leetcode\\medium\\LongestPalindrome.cs",
+              "RelativeToolTip": "Leetcode\\medium\\LongestPalindrome.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T16:16:56.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FindMaxFish.cs",
+              "DocumentMoniker": "D:\\Personal\\repos\\Leetcode\\C#\\Leetcode\\Leetcode\\medium\\FindMaxFish.cs",
+              "RelativeDocumentMoniker": "Leetcode\\medium\\FindMaxFish.cs",
+              "ToolTip": "D:\\Personal\\repos\\Leetcode\\C#\\Leetcode\\Leetcode\\medium\\FindMaxFish.cs",
+              "RelativeToolTip": "Leetcode\\medium\\FindMaxFish.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T16:16:31.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SquareRoot.cs",
+              "DocumentMoniker": "D:\\Personal\\repos\\Leetcode\\C#\\Leetcode\\Leetcode\\easy\\SquareRoot.cs",
+              "RelativeDocumentMoniker": "Leetcode\\easy\\SquareRoot.cs",
+              "ToolTip": "D:\\Personal\\repos\\Leetcode\\C#\\Leetcode\\Leetcode\\easy\\SquareRoot.cs",
+              "RelativeToolTip": "Leetcode\\easy\\SquareRoot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T13:18:32.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FindRedundantConnection.cs",
+              "DocumentMoniker": "D:\\Personal\\repos\\Leetcode\\C#\\Leetcode\\Leetcode\\medium\\FindRedundantConnection.cs",
+              "RelativeDocumentMoniker": "Leetcode\\medium\\FindRedundantConnection.cs",
+              "ToolTip": "D:\\Personal\\repos\\Leetcode\\C#\\Leetcode\\Leetcode\\medium\\FindRedundantConnection.cs",
+              "RelativeToolTip": "Leetcode\\medium\\FindRedundantConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T00:47:33.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "FindJudge.cs",
               "DocumentMoniker": "D:\\Personal\\repos\\Leetcode\\C#\\Leetcode\\Leetcode\\easy\\FindJudge.cs",
               "RelativeDocumentMoniker": "Leetcode\\easy\\FindJudge.cs",
               "ToolTip": "D:\\Personal\\repos\\Leetcode\\C#\\Leetcode\\Leetcode\\easy\\FindJudge.cs",
               "RelativeToolTip": "Leetcode\\easy\\FindJudge.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA4AAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T23:35:18.613Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T23:35:18.613Z"
             }
           ]
         }

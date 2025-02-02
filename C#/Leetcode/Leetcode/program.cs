@@ -36,6 +36,11 @@
 //RemoveNthFromEnd rnfe = new RemoveNthFromEnd();
 //Console.WriteLine(rnfe.Run(rnfe._head, 2));
 
-FindJudge fj = new FindJudge();
-Console.WriteLine(fj.Run(4, [[1, 3], [1, 4], [2, 3]]));
+//FindJudge fj = new FindJudge();
+//Console.WriteLine(fj.Run(4, [[1, 3], [1, 4], [2, 3]]));
 
+//FindRedundantConnection frc = new FindRedundantConnection();
+//Console.WriteLine(string.Join(",", frc.Run([[3, 4], [1, 2], [2, 4], [3, 5], [2, 5]])));
+
+SquareRoot sr = new SquareRoot();
+Console.WriteLine(sr.Run(9));
