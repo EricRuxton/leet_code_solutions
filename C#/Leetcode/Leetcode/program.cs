@@ -1,4 +1,4 @@
-﻿using Leetcode.medium;
+﻿using Leetcode.easy;
 //TwoSum ts = new TwoSum();
 //Console.WriteLine(string.Join(",", ts.Run([3, 3], 6)));
 
@@ -57,5 +57,8 @@
 //GenerateParanthesis generateParanthesis = new GenerateParanthesis();
 //Console.WriteLine(string.Join(",", generateParanthesis.Run(2)));
 
-SwapPairs swapPairs = new SwapPairs();
-swapPairs.Run(swapPairs._head);
+//SwapPairs swapPairs = new SwapPairs();
+//swapPairs.Run(swapPairs._head);
+
+DeleteDuplicates deleteDuplicates = new DeleteDuplicates();
+deleteDuplicates.Run(deleteDuplicates._head);

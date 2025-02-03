@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Personal\\repos\\Leetcode\\C#\\Leetcode\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FB1157A7-F1AC-46E9-98CB-36F8EB0E8446}|Leetcode\\Leetcode.csproj|d:\\personal\\repos\\leetcode\\c#\\leetcode\\leetcode\\medium\\swappairs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB1157A7-F1AC-46E9-98CB-36F8EB0E8446}|Leetcode\\Leetcode.csproj|solutionrelative:leetcode\\medium\\swappairs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB1157A7-F1AC-46E9-98CB-36F8EB0E8446}|Leetcode\\Leetcode.csproj|d:\\personal\\repos\\leetcode\\c#\\leetcode\\leetcode\\easy\\deleteduplicates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB1157A7-F1AC-46E9-98CB-36F8EB0E8446}|Leetcode\\Leetcode.csproj|solutionrelative:leetcode\\easy\\deleteduplicates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FB1157A7-F1AC-46E9-98CB-36F8EB0E8446}|Leetcode\\Leetcode.csproj|d:\\personal\\repos\\leetcode\\c#\\leetcode\\leetcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "Leetcode\\program.cs",
               "ToolTip": "D:\\Personal\\repos\\Leetcode\\C#\\Leetcode\\Leetcode\\program.cs",
               "RelativeToolTip": "Leetcode\\program.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAowDwAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAowDcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-28T23:44:37.843Z",
               "IsPinned": true,
@@ -37,14 +37,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SwapPairs.cs",
-              "DocumentMoniker": "D:\\Personal\\repos\\Leetcode\\C#\\Leetcode\\Leetcode\\medium\\SwapPairs.cs",
-              "RelativeDocumentMoniker": "Leetcode\\medium\\SwapPairs.cs",
-              "ToolTip": "D:\\Personal\\repos\\Leetcode\\C#\\Leetcode\\Leetcode\\medium\\SwapPairs.cs",
-              "RelativeToolTip": "Leetcode\\medium\\SwapPairs.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAAAEIAAAAMAAAAAAAAAA==",
+              "Title": "DeleteDuplicates.cs",
+              "DocumentMoniker": "D:\\Personal\\repos\\Leetcode\\C#\\Leetcode\\Leetcode\\easy\\DeleteDuplicates.cs",
+              "RelativeDocumentMoniker": "Leetcode\\easy\\DeleteDuplicates.cs",
+              "ToolTip": "D:\\Personal\\repos\\Leetcode\\C#\\Leetcode\\Leetcode\\easy\\DeleteDuplicates.cs*",
+              "RelativeToolTip": "Leetcode\\easy\\DeleteDuplicates.cs*",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T02:16:46.852Z",
+              "WhenOpened": "2025-02-03T03:17:44.97Z",
               "EditorCaption": ""
             }
           ]
